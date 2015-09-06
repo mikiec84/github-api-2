@@ -12,7 +12,7 @@ composer require milo/github-api
 
 
 # Documentation
-Everything at [wiki pages](https://github.com/milo/github-api/wiki), including the [short classes description](https://github.com/milo/github-api/wiki/Classes-description).
+Everything At [wiki pages](https://github.com/milo/github-api/wiki), including the [short classes description](https://github.com/milo/github-api/wiki/Classes-description).
 
 
 Quick Start
